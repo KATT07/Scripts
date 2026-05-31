@@ -2,7 +2,9 @@
 + finds deleted/privated videos and can save it to a file
 
 # To Install
-Git Clone this repo                                                                                                                                                                                
+Git Clone this repo 
+link for api key: https://console.cloud.google.com/apis/dashboard
+
 ```
 git clone https://github.com/KATT07/youtube-playlist-archiver
 ```
