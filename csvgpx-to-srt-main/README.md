@@ -6,4 +6,4 @@ otherwise adjust the parameters in the app to feed it data in any manner
 
 3.)run script and obtain the csv file
 
-4.)this file can be imported into any video editor to overlay subtitles for speed
+4.)this file can be imported into any video editor to overlay as subtitles for speed
