@@ -1,1 +1,7 @@
-cd && sudo apt update && sudo DEBIAN_FRONTEND=noninteractive NEEDRESTART_MODE=a apt upgrade -y && sudo DEBIAN_FRONTEND=noninteractive NEEDRESTART_MODE=a apt install hashcat python3-pip python-is-python3 ffmpeg npm nala nmap tealdeer -y && sudo pip install yt-dlp yt-dlp-ejs --break-system-packages && sudo npm install -g deno && tldr -u && wget https://developer.download.nvidia.com/compute/cuda/repos/wsl-ubuntu/x86_64/cuda-keyring_1.1-1_all.deb && sudo apt install ./cuda-keyring_1.1-1_all.deb && sudo apt update && sudo DEBIAN_FRONTEND=noninteractive NEEDRESTART_MODE=a apt install cuda-toolkit-13-2 -y && alias winhome='cd /mnt/c/Users/kat'
+not a script do not blindly run
+
+sudo apt update && sudo apt upgrade -y && sudo apt install hashcat nmap tealdeer -y && tldr -u
+
+install cuda wsl
+https://developer.download.nvidia.com/compute/cuda/repos/wsl-ubuntu/x86_64
+apt install latest ver
